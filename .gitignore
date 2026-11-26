@@ -1,1 +1,18 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+
+02_Processed_Data/*
+!02_Processed_Data/.gitkeep
+
+03_Analysis_Results/*
+!03_Analysis_Results/.gitkeep
+
+04_Visualizations/*
+!04_Visualizations/.gitkeep
+
+05_Model_Results/*
+!05_Model_Results/.gitkeep
 
